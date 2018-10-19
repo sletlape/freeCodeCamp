@@ -63,3 +63,6 @@ public int getNumber() {
     return this.number;
 }
 ```
+There is a Java library called **Lombok** that can be used to help with the creation of your getters and setters, among other things. It can plug into your IDE and uses annotations to create the properties of your class, enableing you to write less code.
+To learn more about Lombok visit the link below:
+https://projectlombok.org/
